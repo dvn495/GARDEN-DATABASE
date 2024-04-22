@@ -643,5 +643,6 @@ AND (codigo_empleado_rep_ventas = 11 OR codigo_empleado_rep_ventas = 30);
 | Cliente 3      |
 +----------------+
 ```
+![Diagrama en blanco](https://github.com/dvn495/GARDEN-DATABASE/assets/152308538/755c7971-4cc1-4c4e-aa8a-25810de2f313)
 
-![Diagrama en blanco.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a9fd7261-f27f-4012-aecf-c181467413f2/a19c9cb8-57b2-463d-ba71-431dc4015551/Diagrama_en_blanco.png)
+
